@@ -1,0 +1,9 @@
+C:\Users\Florian\Desktop\Projects\C#\C# Patterns\1.StrategyPattern\HeadFirstDuck\bin\Debug\HeadFirstDuck.exe.config
+C:\Users\Florian\Desktop\Projects\C#\C# Patterns\1.StrategyPattern\HeadFirstDuck\obj\Debug\HeadFirstDuck.exe
+C:\Users\Florian\Desktop\Projects\C#\C# Patterns\1.StrategyPattern\HeadFirstDuck\obj\Debug\HeadFirstDuck.pdb
+C:\Users\Florian\Desktop\Projects\C#\C# Patterns\1.StrategyPattern\1.StrategyPattern\bin\Debug\HeadFirstDuck.exe.config
+C:\Users\Florian\Desktop\Projects\C#\C# Patterns\1.StrategyPattern\1.StrategyPattern\obj\Debug\HeadFirstDuck.exe
+C:\Users\Florian\Desktop\Projects\C#\C# Patterns\1.StrategyPattern\1.StrategyPattern\obj\Debug\HeadFirstDuck.pdb
+C:\Users\Florian\Desktop\Projects\C#\C# Patterns\1.StrategyPattern\1.StrategyPattern\bin\Debug\HeadFirstDuck.exe
+C:\Users\Florian\Desktop\Projects\C#\C# Patterns\1.StrategyPattern\1.StrategyPattern\bin\Debug\HeadFirstDuck.pdb
+C:\Users\Florian\Desktop\Projects\C#\C# Patterns\1.StrategyPattern\1.StrategyPattern\obj\Debug\1.StrategyPattern.csprojResolveAssemblyReference.cache

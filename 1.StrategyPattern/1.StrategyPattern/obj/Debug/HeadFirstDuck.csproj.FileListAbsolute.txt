@@ -1,0 +1,6 @@
+c:\users\florian fußeder\documents\visual studio 2015\Projects\HeadFirstDuck\HeadFirstDuck\bin\Debug\HeadFirstDuck.exe.config
+c:\users\florian fußeder\documents\visual studio 2015\Projects\HeadFirstDuck\HeadFirstDuck\obj\Debug\HeadFirstDuck.csprojResolveAssemblyReference.cache
+c:\users\florian fußeder\documents\visual studio 2015\Projects\HeadFirstDuck\HeadFirstDuck\bin\Debug\HeadFirstDuck.exe
+c:\users\florian fußeder\documents\visual studio 2015\Projects\HeadFirstDuck\HeadFirstDuck\bin\Debug\HeadFirstDuck.pdb
+c:\users\florian fußeder\documents\visual studio 2015\Projects\HeadFirstDuck\HeadFirstDuck\obj\Debug\HeadFirstDuck.exe
+c:\users\florian fußeder\documents\visual studio 2015\Projects\HeadFirstDuck\HeadFirstDuck\obj\Debug\HeadFirstDuck.pdb

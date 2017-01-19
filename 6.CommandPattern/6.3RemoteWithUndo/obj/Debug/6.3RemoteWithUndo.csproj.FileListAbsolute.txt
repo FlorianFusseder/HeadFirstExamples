@@ -1,0 +1,1 @@
+C:\Users\Florian\Desktop\Projects\C#\C# Patterns\6.CommandPattern\6.3RemoteWithUndo\bin\Debug\6.3RemoteWithUndo.exe.config

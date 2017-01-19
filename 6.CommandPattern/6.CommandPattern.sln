@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6.1SimpleRemote", "6.1SimpleRemote\6.1SimpleRemote.csproj", "{647B9B16-77A1-414C-9027-2EDC6F0164FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6.2ComplexRemote", "6.2ComplexRemote\6.2ComplexRemote.csproj", "{DBC767D5-61FE-44AB-B7F2-CFED0FD82D52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6.3UndoRemote", "6.3UndoRemote\6.3UndoRemote.csproj", "{5C4E58F5-DDE9-43FA-A35B-47A07FF327AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{647B9B16-77A1-414C-9027-2EDC6F0164FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{647B9B16-77A1-414C-9027-2EDC6F0164FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{647B9B16-77A1-414C-9027-2EDC6F0164FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{647B9B16-77A1-414C-9027-2EDC6F0164FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBC767D5-61FE-44AB-B7F2-CFED0FD82D52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBC767D5-61FE-44AB-B7F2-CFED0FD82D52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBC767D5-61FE-44AB-B7F2-CFED0FD82D52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBC767D5-61FE-44AB-B7F2-CFED0FD82D52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C4E58F5-DDE9-43FA-A35B-47A07FF327AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C4E58F5-DDE9-43FA-A35B-47A07FF327AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C4E58F5-DDE9-43FA-A35B-47A07FF327AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C4E58F5-DDE9-43FA-A35B-47A07FF327AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

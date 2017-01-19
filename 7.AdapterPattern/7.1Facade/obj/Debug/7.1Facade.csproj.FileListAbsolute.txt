@@ -1,0 +1,6 @@
+C:\Users\Florian\Desktop\Projects\C#\C# Patterns\7.AdapterPattern\7.1Facade\bin\Debug\7.1Facade.exe.config
+C:\Users\Florian\Desktop\Projects\C#\C# Patterns\7.AdapterPattern\7.1Facade\bin\Debug\7.1Facade.exe
+C:\Users\Florian\Desktop\Projects\C#\C# Patterns\7.AdapterPattern\7.1Facade\bin\Debug\7.1Facade.pdb
+C:\Users\Florian\Desktop\Projects\C#\C# Patterns\7.AdapterPattern\7.1Facade\obj\Debug\7.1Facade.csprojResolveAssemblyReference.cache
+C:\Users\Florian\Desktop\Projects\C#\C# Patterns\7.AdapterPattern\7.1Facade\obj\Debug\7.1Facade.exe
+C:\Users\Florian\Desktop\Projects\C#\C# Patterns\7.AdapterPattern\7.1Facade\obj\Debug\7.1Facade.pdb

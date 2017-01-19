@@ -1,0 +1,6 @@
+C:\Users\Florian\Desktop\Projects\C#\C# Patterns\7.AdapterPattern\7.AdapterPattern\bin\Debug\7.AdapterPattern.exe.config
+C:\Users\Florian\Desktop\Projects\C#\C# Patterns\7.AdapterPattern\7.AdapterPattern\bin\Debug\7.AdapterPattern.exe
+C:\Users\Florian\Desktop\Projects\C#\C# Patterns\7.AdapterPattern\7.AdapterPattern\bin\Debug\7.AdapterPattern.pdb
+C:\Users\Florian\Desktop\Projects\C#\C# Patterns\7.AdapterPattern\7.AdapterPattern\obj\Debug\7.0AdapterPattern.csprojResolveAssemblyReference.cache
+C:\Users\Florian\Desktop\Projects\C#\C# Patterns\7.AdapterPattern\7.AdapterPattern\obj\Debug\7.AdapterPattern.exe
+C:\Users\Florian\Desktop\Projects\C#\C# Patterns\7.AdapterPattern\7.AdapterPattern\obj\Debug\7.AdapterPattern.pdb

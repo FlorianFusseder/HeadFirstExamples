@@ -1,0 +1,1 @@
+C:\Users\Florian\Desktop\Projects\C#\C# Patterns\7.AdapterPattern\7.AdapterPattern\bin\Debug\7.AdapterPattern.exe.config

@@ -1,0 +1,6 @@
+C:\Users\Florian\Desktop\Projects\C#\C# Patterns\6.CommandPattern\6.1SimpleRemote\bin\Debug\6.CommandPattern.exe.config
+C:\Users\Florian\Desktop\Projects\C#\C# Patterns\6.CommandPattern\6.1SimpleRemote\obj\Debug\6.CommandPattern.exe
+C:\Users\Florian\Desktop\Projects\C#\C# Patterns\6.CommandPattern\6.1SimpleRemote\obj\Debug\6.CommandPattern.pdb
+C:\Users\Florian\Desktop\Projects\C#\C# Patterns\6.CommandPattern\6.1SimpleRemote\bin\Debug\6.CommandPattern.exe
+C:\Users\Florian\Desktop\Projects\C#\C# Patterns\6.CommandPattern\6.1SimpleRemote\bin\Debug\6.CommandPattern.pdb
+C:\Users\Florian\Desktop\Projects\C#\C# Patterns\6.CommandPattern\6.1SimpleRemote\obj\Debug\6.1SimpleRemote.csprojResolveAssemblyReference.cache

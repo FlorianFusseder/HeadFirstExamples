@@ -1,0 +1,3 @@
+C:\Users\Florian\Desktop\Projects\C#\C# Patterns\4.FactoryPattern\4.2AbstractFActoryPattern\bin\Debug\4.2AbstractFActoryPattern.exe.config
+C:\Users\Florian\Desktop\Projects\C#\C# Patterns\4.FactoryPattern\4.2AbstractFActoryPattern\obj\Debug\4.2AbstractFActoryPattern.exe
+C:\Users\Florian\Desktop\Projects\C#\C# Patterns\4.FactoryPattern\4.2AbstractFActoryPattern\obj\Debug\4.2AbstractFActoryPattern.pdb

@@ -1,0 +1,6 @@
+C:\Users\Florian\Desktop\Projects\C#\C# Patterns\6.CommandPattern\6.3UndoRemote\bin\Debug\6.3UndoRemote.exe.config
+C:\Users\Florian\Desktop\Projects\C#\C# Patterns\6.CommandPattern\6.3UndoRemote\bin\Debug\6.3UndoRemote.exe
+C:\Users\Florian\Desktop\Projects\C#\C# Patterns\6.CommandPattern\6.3UndoRemote\bin\Debug\6.3UndoRemote.pdb
+C:\Users\Florian\Desktop\Projects\C#\C# Patterns\6.CommandPattern\6.3UndoRemote\obj\Debug\6.3UndoRemote.csprojResolveAssemblyReference.cache
+C:\Users\Florian\Desktop\Projects\C#\C# Patterns\6.CommandPattern\6.3UndoRemote\obj\Debug\6.3UndoRemote.exe
+C:\Users\Florian\Desktop\Projects\C#\C# Patterns\6.CommandPattern\6.3UndoRemote\obj\Debug\6.3UndoRemote.pdb

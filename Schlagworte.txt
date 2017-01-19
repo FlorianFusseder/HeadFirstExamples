@@ -1,0 +1,4 @@
+Polymorphismus: Interfaces
+Abstraktismus: Abstrakte Klassen
+Kapseln: Was sich verändert kapseln und auswechlselbar machen
+Vererbung: Einfaches erben

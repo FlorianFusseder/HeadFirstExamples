@@ -1,0 +1,1 @@
+C:\Users\Florian\Desktop\Projects\C#\C# Patterns\4.0_SimpleFactory\4.0_SimpleFactory\bin\Debug\4.0_SimpleFactory.exe.config

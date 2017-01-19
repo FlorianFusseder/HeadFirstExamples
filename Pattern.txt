@@ -1,0 +1,14 @@
+The Strategy Pattern: Für situationen in denen sich Objekte der selben Klasse sich je nach Kontext unterschiedlich verhalten sollen
+The Observer Pattern: Für situationen in denen mehrere Objekte auf ein Ereignis reagieren sollen
+The Decoration Pattern: Klassen können einfach mit neuen Funktionen erweitert werden, wenn welche gebraucht werden
+The Simple Factory Pattern: Eine Factory die an eine Creator Klasse die Geforderte Klasse übergibt, dadurch muss mann bei änderungen nur in der Factory angreifen
+The Factory Method Pattern: Durch den Abstracten Creator der die erstellermetode besitzt, die im Spezifischen Creator überschrieben wird, wird festgelegt welches objekt genau instatnziert wird
+The Abstract Factory Pattern: Für Produktfamilien erstellung
+The Singelton Pattern: Wenn nur eine Instanz eines Objektes Exisitieren darf
+The Command Pattern: Anfragen an objekte können so gekapselt werden, dass die einfach ausgeführt werden können
+The Object Adapter Pattern: Wandelt ein interface einer Klasse in ein anderes um, dass der Client auch erwartet
+The Class Adapter Pattern: Die AdapterKlasse Erbt von zwei Klassen um die Funktionen zu erhalten und somit zu antworten - nich tmöglich in java, c# wegen mehrfacherbung!
+The Facade Pattern: Eine Klasse die arbeitsabläufe anderer Klassen kapselt
+The Template Method Pattern: Stellt eine Ablaufplan für einen Algorithmus dar, der bei bedarf einzelne Schritte überschreiben lässt 
+
+

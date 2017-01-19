@@ -1,0 +1,6 @@
+C:\Users\Florian\Desktop\Projects\C#\C# Patterns\5.Singleton\5.Singleton\bin\Debug\5.Singleton.exe.config
+C:\Users\Florian\Desktop\Projects\C#\C# Patterns\5.Singleton\5.Singleton\bin\Debug\5.Singleton.exe
+C:\Users\Florian\Desktop\Projects\C#\C# Patterns\5.Singleton\5.Singleton\bin\Debug\5.Singleton.pdb
+C:\Users\Florian\Desktop\Projects\C#\C# Patterns\5.Singleton\5.Singleton\obj\Debug\5.Singleton.csprojResolveAssemblyReference.cache
+C:\Users\Florian\Desktop\Projects\C#\C# Patterns\5.Singleton\5.Singleton\obj\Debug\5.Singleton.exe
+C:\Users\Florian\Desktop\Projects\C#\C# Patterns\5.Singleton\5.Singleton\obj\Debug\5.Singleton.pdb

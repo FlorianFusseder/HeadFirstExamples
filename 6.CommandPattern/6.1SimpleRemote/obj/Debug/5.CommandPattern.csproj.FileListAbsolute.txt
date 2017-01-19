@@ -1,0 +1,1 @@
+C:\Users\Florian\Desktop\Projects\C#\C# Patterns\5.CommandPattern\5.CommandPattern\bin\Debug\5.CommandPattern.exe.config
